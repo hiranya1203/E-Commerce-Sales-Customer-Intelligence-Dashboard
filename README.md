@@ -9,12 +9,6 @@ The goal was to simulate a real analyst's end-to-end workflow — cleaning messy
 
 ---
 
-## What This Project Is About
-
-I took a real messy dataset from a UK online retailer (2009–2011) and built a complete analytics pipeline from scratch — cleaning the data, analysing it with SQL, summarising it in Excel, and presenting it in an interactive Power BI dashboard.
-
-This project covers the full workflow a data analyst does on the job.
-
 ## Tools & Technologies
 
 | Tool | Purpose |
