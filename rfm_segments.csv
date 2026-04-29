@@ -1,0 +1,7 @@
+Segment,customer_count,avg_recency_days,avg_orders,avg_revenue,total_segment_revenue
+Hibernating,2166,29,12.4,6342.40,13737629.21
+"Potential Loyalists",774,278,7.1,2778.65,2150672.97
+"Loyal Customers",897,237,1.8,696.40,624670.08
+Champions,1267,520,1.4,483.39,612458.93
+"At Risk",522,59,1.6,605.44,316038.37
+"Cant Lose Them",252,14,1.6,1198.25,301959.60
