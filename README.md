@@ -105,6 +105,7 @@ Ranked top 20 products by revenue and calculated each product's % share of total
 
 ---
 ## Step 4 — Excel KPI Summary
+![Excel KPI Summary](excel_kpi_summary.png)
 
 Built a simple workbook with 4 pivot sheets connected by Year and Country slicers:
 - KPI summary (Revenue, Orders, Customers, Avg Order Value)
