@@ -159,6 +159,10 @@ Built a simple workbook with 4 pivot sheets connected by Year and Country slicer
 - **Saturday is almost a non-trading day** — only £9,803 vs £3.84M on Thursday
 - **EIRE, Netherlands, and Germany** are the top 3 international markets
 - **Only 1 in 4 customers return** the following month — reducing churn is the biggest growth lever
+---
+## Author
+**P Hiranya **
+
 
 ---
 
