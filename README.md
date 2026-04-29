@@ -125,14 +125,6 @@ Built a simple workbook with 4 pivot sheets connected by Year and Country slicer
 **Page 1 — Executive Overview**
 ![Page 1](page1_Executive_Overview.png)
 
-**Page 2 — Customer Intelligence**
-![Page 2](page2_Customer_Intelligence.png)
-
-**Page 3 — Product Performance**
-![Page 3](page3_Product_Performance.png)
-
-**Page 1 — Executive Overview**
-
 | Metric | Value |
 |---|---|
 | Total Revenue | £17.74M |
@@ -140,13 +132,19 @@ Built a simple workbook with 4 pivot sheets connected by Year and Country slicer
 | Unique Customers | 6K |
 | Avg Order Value | £479.95 |
 
+
 **Page 2 — Customer Intelligence**
+![Page 2](page2_Customer_Intelligence.png)
+
 - Donut chart showing customer split by RFM segment
 - Revenue by segment bar chart
 - Segment details table
 - Cohort retention heatmap (red = low retention, green = high)
 
+
 **Page 3 — Product Performance**
+![Page 3](page3_Product_Performance.png)
+
 - Top 20 products by revenue
 - Price vs Revenue scatter plot
 - Monthly units sold trend
